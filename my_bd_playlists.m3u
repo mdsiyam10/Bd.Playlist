@@ -73,7 +73,7 @@ https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/411.m3u8
 http://filex.me:8080/000003/000003/516714
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="Bangla",36.Channel S
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla",‎ZEE BANGLA CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla",‎ 37.ZEE BANGLA CINEMA HD
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WzhwJYDJ/DD-Bangla.jpg" group-title="Bangla",‎DD BANGLA
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
@@ -224,5 +224,6 @@ https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
