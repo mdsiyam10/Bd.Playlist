@@ -14,7 +14,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",09.NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yu8ugqt.png" group-title="Bangla",10.Rtv
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/401.m3u8
+https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1763463579&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=977291f67074d951cab9cc6dcb7bd701
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pTJSGtj.png" group-title="Bangla",11.Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="Bangla",12.Banglavision HD
@@ -46,7 +46,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k2adSjA.png" group-title="Bangla",24.‎Asian TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tL9kxxB.png" group-title="Bangla",25.SATV
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/3814.m3u8
+https://tvsen6.aynascope.net/satv/index.m3u8?e=1763463583&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=3c0a2de48ed0a2155826fe232b76b02a
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="Bangla",26.Gaan Bangla
 http://103.130.112.222:8085/hls/Gaan-Bangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ds3aThu.jpg" group-title="Bangla",27.Jamuna TV
@@ -68,7 +68,7 @@ http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="Bangla",35.AKHON
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XcJZKg4.png" group-title="Bangla",‎NEXUS TV HD
-https://dhoomtv.xyz:443/live/8zpo3GsVY7/beneficial2concern/411.m3u8
+https://tvsen6.aynascope.net/nexustv/index.m3u8?e=1763463592&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=f1d3fd801c97e60a4df4f39c60f5db97
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oe0pq1R.png" group-title="Bangla",36.Global HD
 http://filex.me:8080/000003/000003/516714
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="Bangla",36.Channel S
@@ -224,6 +224,7 @@ https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
