@@ -148,7 +148,7 @@ http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/34676
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",76.HBO
 http://190.171.101.36:80/HBO/tracks-v3a2/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",77.Movies Now HD
-http://66.102.120.18:8000/play/a019
+http://87.255.35.150:18935
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1020182
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="English",78.Star Movies HD
@@ -223,6 +223,7 @@ http://87.255.35.150:18296/
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
