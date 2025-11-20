@@ -160,11 +160,11 @@ http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/497.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/TCFDYyT.png" group-title="Sports",85.Sony Ten 2 HD
 http://66.102.120.18:8000/play/a01y
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/NDVadMe.png" group-title="Sports",88.Star Sports 2
-http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
+http://opplex.to:8080/alamin7763/12345987/167574
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",89.Star Sports Select 1 HD
-http://stvlive.net:8080/starselect1/index.m3u8
+http://opplex.to:8080/alamin7763/12345987/167578
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports",90.Star Sports Select 2 HD
-http://stvlive.net:8080/starselect2/tracks-v1a1/mono.m3u8
+http://opplex.to:8080/alamin7763/12345987/167579
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",91.Sky Sports Cricket
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/516.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports",92.Sky Sports Football
@@ -221,6 +221,7 @@ https://tvsen6.aynascope.net/Dhinchaak/index.m3u8?e=1763569240&u=ef3dd85c-c300-4
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
