@@ -79,7 +79,7 @@ http://opplex.to:8080/alamin7763/12345987/245897
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="Bangla",‎Colors Bangla
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="Bangla",‎ sony আট
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="Bangla",‎ Sony Aath
 https://bongoflixbd.top/test/live.php?id=sonyaath&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="Bangla",‎ZEE BANGLA HD
 http://87.255.35.150:18238/
@@ -121,21 +121,21 @@ http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1019876
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONY_wah.png" group-title="Hindi",SONY WAH
 http://tvstb.wasmer.app/getlink/2060
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="English",63.Discovery Turbo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Documentary",63.Discovery Turbo
 http://66.102.120.18:8000/play/a016
-#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/Historytv18.png" group-title="English",64.History Channel HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/Historytv18.png" group-title="Documentary",64.History Channel HD
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1019596
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English",65.National Geographic HD Hindi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",65.National Geographic HD Hindi
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72220
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English",68.Discovery HD Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",68.Discovery HD Bangla
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/510485
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Documentary",69.TLC SD Hindi
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/34680
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English",70.& Prive HD
 http://87.255.35.150:18494/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English",71.AXN
 http://filex.me:8080/000003/000003/530421
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English",72.Redbull TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Sports",72.Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English",73.Sony Pix HD
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72148
@@ -221,6 +221,7 @@ https://tvsen6.aynascope.net/Dhinchaak/index.m3u8?e=1763569240&u=ef3dd85c-c300-4
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
