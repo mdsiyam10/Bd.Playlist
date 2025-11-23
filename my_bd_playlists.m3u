@@ -186,7 +186,7 @@ http://live.tivimate.online:8080/omsainet0006/omsainet9090/137784
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",97.Disney Channel
 http://103.182.170.32:8888/play/a04g
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Cartoon",98.SONY YAY!
-http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72153
+http://live.tivimate.online:8080/omsainet0006/omsainet9090/137787
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Cartoon",98.SONY YAY! Bangla
 https://ottbanglacdn.konikah799.workers.dev/api/b45f637d05/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="Cartoon",98.Khushboo Bangla
@@ -194,17 +194,17 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vSJzF6o.png" group-title="Cartoon",99.Sonic
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/510222
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick
-http://opplex.to:8080/alamin7763/12345987/150482
+http://live.tivimate.online:8080/omsainet0006/omsainet9090/137789
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick Hindi
 http://66.102.120.18:8000/play/a00w
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon",103.Nick Junior Hindi
-https://nettv.fun/jh/stream.php?id=JC_NickJr&sr=JCHLS&e=.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon",104.Hungama Super
-http://filex.me:8080/000003/000003/123826
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon",104.Hungama TV
-http://87.255.35.150:18811
+http://live.tivimate.online:8080/omsainet0006/omsainet9090/137790
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon",104.HUNGAMA Super
+http://live.tivimate.online:8080/omsainet0006/omsainet9090/820123
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Cartoon",104.HUNGAMA TV
+http://live.tivimate.online:8080/omsainet0006/omsainet9090/137788
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Cartoon",104.Pogo
-http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/117790
+http://live.tivimate.online:8080/omsainet0006/omsainet9090/137785
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DKVLQ7m.png" group-title="Music",106.MTV HD
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/510261
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",108.Sangeet Bangla
@@ -227,6 +227,7 @@ https://tvsen6.aynascope.net/Dhinchaak/index.m3u8?e=1763569240&u=ef3dd85c-c300-4
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
