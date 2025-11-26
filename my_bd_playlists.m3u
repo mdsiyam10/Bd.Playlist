@@ -60,7 +60,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="Bangla",31.Bangla TV
 https://tvsen6.aynascope.net/banglatv/index.m3u8?e=1763567279&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=228115cf739a96549d8fbf38d25f6a14
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",32.Duronto TV
-https://tvsen4.aynaott.com/durontotv/index.m3u8
+http://103.166.152.22:8080/roarzone/bk/10/index.m3u8?token=df7aad9c02f5f68d98f5980f809fd8497af8031d-3e4ff50ad05eccd78131b893a8741f72-1764183054-1764172254
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png" group-title="Bangla",33.Nagorik tv
 http://103.175.242.10:8080/nagorik/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",34.Ananda TV
@@ -230,6 +230,7 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
