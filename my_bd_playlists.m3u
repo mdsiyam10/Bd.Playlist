@@ -171,8 +171,8 @@ http://87.255.35.150:18891
 http://103.166.152.22:8080/roarzone/bk/26/index.m3u8?token=d90880223443399c118cc6a6d279f34da09646ae-5c184cf5b853714d1ffbefd22ef9e59f-1764183053-1764172253
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",89.Star Sports Select 1 HD
 http://87.255.35.150:18893
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/rCa9a5j.png" group-title="Sports",90.Star Sports Select 2 HD
-http://opplex.to:8080/alamin7763/12345987/167579
+#EXTINF:-1 tvg-id="" tvg-logo="http://tvassets.roarzone.info/images/28.png" group-title="Sports",90.Star Sports Select 2 HD
+http://103.166.152.22:8080/roarzone/bk/28/index.m3u8?token=44ae1fb17895c2c94f487e3abbcdf683f8eca465-2aac5bddc447fec19b8c61fb959e0da1-1764183053-1764172253
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",91.Sky Sports Cricket
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/516.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports",92.Sky Sports Football
@@ -230,6 +230,7 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
