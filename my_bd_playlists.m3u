@@ -188,7 +188,7 @@ http://live.tivimate.online:8080/omsainet0006/omsainet9090/137784
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/NmBF00q.png" group-title="Cartoon",97.Disney Channel
 http://103.182.170.32:8888/play/a04g
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Cartoon",98.SONY YAY!
-http://live.tivimate.online:8080/omsainet0006/omsainet9090/137787
+http://103.166.152.22:8080/roarzone/toffee/sonyyay/index.m3u8?token=94219453cda412fb331af2a5fde4bd4883a126b5-aacf8fd88fdfc33c8d796b874eab2ee1-1764183054-1764172254
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Cartoon",98.SONY YAY! Bangla
 http://66.102.120.18:8000/play/a00s
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="Cartoon",98.Khushboo Bangla
@@ -196,7 +196,7 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vSJzF6o.png" group-title="Cartoon",99.Sonic
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/510222
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick
-http://live.tivimate.online:8080/omsainet0006/omsainet9090/137789
+http://103.166.152.22:8080/roarzone/bk/55/index.m3u8?token=5b58c810997263bd7474221660b51896240ba06f-da5f880d8e74ccbb2a97d6bc57300ee0-1764183054-1764172254
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick Hindi
 http://66.102.120.18:8000/play/a00w
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon",103.Nick Junior Hindi
@@ -230,6 +230,7 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
