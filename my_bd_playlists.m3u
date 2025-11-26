@@ -74,13 +74,13 @@ http://filex.me:8080/000003/000003/516714
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="Bangla",36.Channel S
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla",‎ 37.ZEE BANGLA CINEMA HD
-https://ottbanglacdn.konikah799.workers.dev/api/04cb8cb9a7/playlist.m3u8
+http://103.166.152.22:8080/roarzone/bk/29/index.m3u8?token=4c3c1f703b24c59508d6d71600a4f54fc8ca5d4d-9579008932781027d3d2769de72b3362-1764183053-1764172253
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WzhwJYDJ/DD-Bangla.jpg" group-title="Bangla",‎DD BANGLA
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" group-title="Bangla",‎Colors Bangla
 https://tvsen3.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png" group-title="Bangla",‎ Sony Aath
-https://bongoflixbd.top/test/live.php?id=sonyaath&e=.m3u8
+http://103.166.152.22:8080/roarzone/bk/33/index.m3u8?token=60a0569644594b43acf672a7867b455549e110ee-e8f278ce1db2fe4e85b59cfeb4a73422-1764183053-1764172253
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9HM31yqc/ZEE-BANGLA-HD.png" group-title="Bangla",‎ZEE BANGLA HD
 http://87.255.35.150:18238/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9d1xXjN.png" group-title="Bangla",Star Jalsha HD
@@ -156,7 +156,7 @@ http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1020182
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="English",78.Star Movies HD
 http://87.255.35.150:18301
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/INDIA/T_Sports.png" group-title="Sports",83.T SPORTS HD
-http://103.166.152.22:8080/roarzone/edge2/tsports/index.m3u8?token=a3c998aec2692af926b218297990a78a960c763e-6d26205d3697a9886176f15dd99948c7-1764175153-1764164353
+http://103.166.152.22:8080/roarzone/edge2/tsports/index.m3u8?token=27b350d502e946157aa4b9f6f06658080e217ad9-2a18254edb2cc6e58bf78dd63a4be830-1764183053-1764172253
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg" group-title="Sports",83.A Sports
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",83.Sony Ten 5 HD
@@ -230,6 +230,7 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
