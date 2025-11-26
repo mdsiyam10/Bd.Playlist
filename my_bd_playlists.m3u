@@ -144,15 +144,15 @@ http://filex.me:8080/000003/000003/530421
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Sports",72.Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English",73.Sony Pix HD
-http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/72148
+http://103.166.152.22:8080/roarzone/bk/41/index.m3u8?token=6244d59de33ba58d9291ebee9f8c7c65938dbd2e-da6b8447a064695e43052205d48fb17b-1764183054-1764172254
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English",75.Zee Cafe HD
-http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/34676
+http://103.166.152.22:8080/roarzone/toffee/zee_cafe_hd/index.m3u8?token=e948111f6fdb0060bd1df88623ebc0955ec83403-dd23ae5e8533866fe9a06d5e4cc0cf53-1764183054-1764172254
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",76.HBO
 http://live.tivimate.online:8080/omsainet0006/omsainet9090/729597
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/BNaXQWX.png" group-title="English",77.Movies Now HD
 http://87.255.35.150:18935
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD
-http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1020182
+http://103.166.152.22:8080/roarzone/bk/starmovies/index.m3u8?token=689d4bc62e0f576211dc68a5b17882c28b6c6571-71345c7104b0248f07c610a7e09a0e17-1764183054-1764172254
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="English",78.Star Movies HD
 http://87.255.35.150:18301
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/INDIA/T_Sports.png" group-title="Sports",83.T SPORTS HD
@@ -230,6 +230,7 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
