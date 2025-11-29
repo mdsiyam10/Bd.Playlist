@@ -98,9 +98,9 @@ http://live.tivimate.online:8080/omsainet0006/omsainet9090/137761
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
 http://87.255.35.150:18850/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee TV HD
-http://103.166.152.22:8080/roarzone/bk/40/index.m3u8?token=d2cac3a607c13ff400f71cdd1e38e0acbd7b6089-06e43f06c1dd0bc1249d0124fb270dbb-1764219477-1764208677
+http://87.255.35.150:18861/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi",50.& Pictures SD
-http://103.166.152.22:8080/roarzone/bk/100/index.m3u8?token=c63b87f2d34a8a52d9992555e46da3c6a98fc4c8-b6b56729ba678a1c0ff28e61c86666e0-1764219477-1764208677
+http://87.255.35.150:18510/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.Sony Max HD
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1366.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 2 HD
@@ -112,7 +112,7 @@ https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",56.Zee Action
 http://87.255.35.150:18507/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi",57.Zee Bolywood HD
-http://103.166.152.22:8080/roarzone/toffee/zee_bollywood/index.m3u8?token=32da747d70ecd659cea5a015660ba41f2a0ba5bf-0314f80379ee2639e1fc942266faade5-1764219477-1764208677
+http://87.255.35.150:18861/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD
 http://103.166.152.22:8080/roarzone/bk/76/index.m3u8?token=7d6d2a522b1fbe463a73856a7b918a5097baf246-742f5beb97d539187a37712d1b74f389-1764219479-1764208679
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",59.Zee Cinema
@@ -230,6 +230,7 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
