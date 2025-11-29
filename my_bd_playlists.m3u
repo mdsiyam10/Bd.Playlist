@@ -62,7 +62,7 @@ https://tvsen6.aynascope.net/banglatv/index.m3u8?e=1763567279&u=ef3dd85c-c300-4e
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla",32.Duronto TV
 http://103.166.152.22:8080/roarzone/bk/10/index.m3u8?token=c94c414c65f852806992516e6ad598bb963dc789-3c9691c15e3fa35ed7f08b3dc30bf716-1764219477-1764208677
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png" group-title="Bangla",33.Nagorik tv
-http://103.175.242.10:8080/nagorik/index.m3u8
+http://116.204.149.16/nagorik/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/h5FhOWT.png" group-title="Bangla",34.Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tRrDh6z.png" group-title="Bangla",35.AKHON
@@ -156,7 +156,7 @@ http://103.166.152.22:8080/roarzone/bk/starmovies/index.m3u8?token=a846bd46d47b9
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="English",78.Star Movies HD
 http://87.255.35.150:18301
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/INDIA/T_Sports.png" group-title="Sports",83.T SPORTS HD
-http://103.166.152.22:8080/roarzone/edge2/tsports/index.m3u8?token=c9064bbc5792095a9b3fe2c100b1b46ce60c4c2d-0130f422cfc22aa00627bb96b5998613-1764219477-1764208677
+https://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg" group-title="Sports",83.A Sports
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/804
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports",83.Sony Ten 5 HD
@@ -230,6 +230,7 @@ https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
