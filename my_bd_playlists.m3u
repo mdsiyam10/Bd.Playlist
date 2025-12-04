@@ -1,4 +1,4 @@
-#EXTM3U
+ #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla",01.Bangladesh Television
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla",02.Bangladesh Television CTG
@@ -88,13 +88,13 @@ http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/3527.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla",Jalsha Movies HD
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/543
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD
-http://66.102.120.18:8000/play/a005
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=943926&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD
-http://66.102.120.18:8000/play/a00a
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=944612&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONYSAB.png" group-title="Hindi",47.Sony Sab HD
 http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1037
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONY_PAL.png" group-title="Hindi",47.Sony Pal
-http://live.tivimate.online:8080/omsainet0006/omsainet9090/137761
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=373069&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
 http://87.255.35.150:18850/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee TV HD
@@ -104,7 +104,7 @@ http://87.255.35.150:18510/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.Sony Max HD
 http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1366.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 2 HD
-http://66.102.120.18:8000/play/a077
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=372926&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",54.Star Gold HD
 http://87.255.35.150:18859/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Hindi",55.Shemaroo TV
@@ -122,11 +122,11 @@ http://live.tivimate.online:8080/omsainet0006/omsainet9090/137748
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="Hindi",60.& TV HD
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONY_wah.png" group-title="Hindi",SONY WAH
-http://tvstb.wasmer.app/getlink/2060
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=944607&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Documentary",63.Discovery Turbo
 http://66.102.120.18:8000/play/a016
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/Historytv18.png" group-title="Documentary",64.History Channel HD
-http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/1019596
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=373031&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/Historytv18.png" group-title="Documentary",64.BBC EART HINDI
 http://opplex.to:8080/alamin7763/12345987/383184
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Documentary",64.Animal Planet Hindi
@@ -144,7 +144,7 @@ http://filex.me:8080/000003/000003/530421
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Sports",72.Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English",73.Sony Pix HD
-http://103.166.152.22:8080/roarzone/bk/41/index.m3u8?token=a8f82805f6c60acbcafd89d75fca98c6989c6553-e8c5b10d5cdd0bac8084464417256790-1764219477-1764208677
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=943971&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English",75.Zee Cafe HD
 http://103.166.152.22:8080/roarzone/toffee/zee_cafe_hd/index.m3u8?token=0fad353bb20e7496ad132fe28fac0344063bbc0d-f40487ffeabf02f56b5259cae6d10e05-1764219477-1764208677
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",76.HBO
@@ -190,7 +190,7 @@ http://103.182.170.32:8888/play/a04g
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png" group-title="Cartoon",98.SONY YAY!
 http://103.166.152.22:8080/roarzone/toffee/sonyyay/index.m3u8?token=94219453cda412fb331af2a5fde4bd4883a126b5-aacf8fd88fdfc33c8d796b874eab2ee1-1764183054-1764172254
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-yay-bangla.png" group-title="Cartoon",98.SONY YAY! Bangla
-http://66.102.120.18:8000/play/a00s
+http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=373067&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://otapp.store/uploads/tv_image/sm/khushboo-bangla.png" group-title="Cartoon",98.Khushboo Bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vSJzF6o.png" group-title="Cartoon",99.Sonic
@@ -230,6 +230,7 @@ https://tvsen6.aynascope.net/Dhinchaak/index.m3u8?e=1764689303&u=ef3dd85c-c300-4
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
