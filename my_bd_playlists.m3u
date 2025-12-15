@@ -126,7 +126,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=944607&e
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Documentary",63.Discovery Turbo
 http://66.102.120.18:8000/play/a016
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/Historytv18.png" group-title="Documentary",64.History Channel HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=373031&extension=ts
+http://119.152.240.15:8000/play/a0bj/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/Historytv18.png" group-title="Documentary",64.BBC EART HINDI
 http://opplex.to:8080/alamin7763/12345987/383184
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Documentary",64.Animal Planet Hindi
@@ -230,6 +230,7 @@ https://tvsen6.aynascope.net/Dhinchaak/index.m3u8?e=1764689303&u=ef3dd85c-c300-4
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
