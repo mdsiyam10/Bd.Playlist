@@ -92,7 +92,7 @@ http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=943926&e
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=944612&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONYSAB.png" group-title="Hindi",47.Sony Sab HD
-http://main.epgmaker.com/Ali130225/Cpyej2JL56Xy/1037
+http://87.255.35.150:18810/
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/India/SONY_PAL.png" group-title="Hindi",47.Sony Pal
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=373069&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
@@ -197,7 +197,7 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 http://agh2019.xyz:80/SOFIANBENAISSA/X7KJL94/510222
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick
 http://103.166.152.22:8080/roarzone/bk/55/index.m3u8?token=1965a590efb284c020ae8c27c5754c84da6edfb4-43fa1d8974be5e88e1b4b530b27e9d4a-1764694085-1764683285
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon",102.Nick Hindi
+#EXTINF:-1 tvg-id="" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Cartoon",102.Nick Hindi
 http://66.102.120.18:8000/play/a00w
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon",103.Nick Junior Hindi
 http://66.102.120.18:8000/play/a00m
@@ -230,6 +230,7 @@ https://tvsen6.aynascope.net/Dhinchaak/index.m3u8?e=1764689303&u=ef3dd85c-c300-4
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",‎Madina live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+
 
 
 
