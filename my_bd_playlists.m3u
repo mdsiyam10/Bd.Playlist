@@ -102,7 +102,7 @@ http://87.255.35.150:18861/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi",50.& Pictures SD
 http://87.255.35.150:18510/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.Sony Max HD
-http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1366.m3u8
+https://redbooks.site/2026/121/index.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 2 HD
 http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=372926&extension=ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",54.Star Gold HD
@@ -114,7 +114,7 @@ http://87.255.35.150:18507/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi",57.Zee Bolywood HD
 http://87.255.35.150:18861/
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD
-http://103.166.152.22:8080/roarzone/bk/76/index.m3u8?token=bca3d20aaf0647bc44cd2680bc6f7d21fa199a63-35ff05e3504c9477f385825928b22863-1764694085-1764683285
+https://redbooks.site/2026/124/index.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",59.Zee Cinema
 http://opplex.to:8080/alamin7763/12345987/206271
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi",59.Star Bharat HD
@@ -144,7 +144,7 @@ http://filex.me:8080/000003/000003/530421
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/euauPCp.png" group-title="Sports",72.Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="English",73.Sony Pix HD
-http://main.light-ott.net:80/play/live.php?mac=A0:BB:3E:00:06:F3&stream=943971&extension=ts
+https://redbooks.site/2026/137/index.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="English",75.Zee Cafe HD
 http://103.166.152.22:8080/roarzone/toffee/zee_cafe_hd/index.m3u8?token=0fad353bb20e7496ad132fe28fac0344063bbc0d-f40487ffeabf02f56b5259cae6d10e05-1764219477-1764208677
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",76.HBO
@@ -154,7 +154,7 @@ http://87.255.35.150:18935
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",78.Star Movies Select HD
 http://103.166.152.22:8080/roarzone/bk/starmovies/index.m3u8?token=a846bd46d47b91920a6952822c242e5695b8eef5-760794fee1d996d12905d5511c81928c-1764219477-1764208677
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/02CNFVwv/Star-Movies-HD.jpg" group-title="English",78.Star Movies HD
-http://87.255.35.150:18301
+https://redbooks.site/2026/134/index.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://go4.pw/ASIA/INDIA/T_Sports.png" group-title="Sports",83.T SPORTS HD
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/Mr87xG7/A-Sports-HD.jpg" group-title="Sports",83.A Sports
@@ -230,6 +230,7 @@ https://tvsen6.aynascope.net/Dhinchaak/index.m3u8?e=1764689303&u=ef3dd85c-c300-4
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png" group-title="Islamic",‎Madina live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+
 
 
 
