@@ -168,11 +168,11 @@ http://66.102.120.18:8000/play/a01y
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8cYLb3kY/Star-Sports-1-HD.jpg" group-title="Sports",88.Star Sports 1 HD
 http://87.255.35.150:18891
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvassets.roarzone.info/images/26.png" group-title="Sports",88.Star Sports 2 HD
-https://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8?e=1764689380&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ad7755a8b8d7257a01706ca10ee6e288
+https://redbooks.site/2026/154/index.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TL2jAU6.png" group-title="Sports",89.Star Sports Select 1 HD
 http://87.255.35.150:18893
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvassets.roarzone.info/images/28.png" group-title="Sports",90.Star Sports Select 2 HD
-https://tvsen7.aynascope.net/ssps2hd/index.m3u8?e=1764689374&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=e505c3227a26e5a385273c159e44d52e
+https://redbooks.site/2026/164/index.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports",91.Sky Sports Cricket
 http://main.epgmaker.com/live/Ali130225/Cpyej2JL56Xy/516.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C49YuUd.jpg" group-title="Sports",92.Sky Sports Football
@@ -230,6 +230,7 @@ https://tvsen6.aynascope.net/Dhinchaak/index.m3u8?e=1764689303&u=ef3dd85c-c300-4
 https://media2.streambrothers.com:1936/8122/8122/chunklist_w1247854077.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pdPNPz8J/images.png" group-title="Islamic",‎Madina live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
+
 
 
 
